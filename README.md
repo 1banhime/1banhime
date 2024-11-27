@@ -1,4 +1,4 @@
-![MasterHead]([https://pbs.twimg.com/media/Eljq4M_WoAAWHQp.jpg:large](https://rare-gallery.com/uploads/posts/4594345-anime-girls-stars-flcl-haruhara-haruko-scooters-night-space-vespa.jpg))
+![MasterHead](https://rare-gallery.com/uploads/posts/4594345-anime-girls-stars-flcl-haruhara-haruko-scooters-night-space-vespa.jpg)
 <h3 align="center">とにかくさ、バット振んなきゃ話になんないよ</h3>
 <!--<img align="right" alt="Coding" width="400" src="https://media.tenor.com/X3YUU7Rl_98AAAAC/drift-manga.gif">-->
 
