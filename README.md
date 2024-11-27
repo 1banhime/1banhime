@@ -6,6 +6,7 @@
 
 <!--<h3 align="left">Connect with me:</h3>-->
 <p align="left">
+<br><br><br>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1banhime&" alt="1banhime" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1banhime&" alt="1banhime" /></p>
